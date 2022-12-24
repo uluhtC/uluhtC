@@ -1,4 +1,4 @@
-Hello! Im uluhtC (Cthulu spelled backwards).
+Hello! Im ZollyPop
 /Languages/
 -Python
 -Scratch
